@@ -1,4 +1,4 @@
-# MLOps Assignment 1: Machine Learning Pipeline with MLflow
+# Machine Learning Pipeline with MLflow
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![MLflow](https://img.shields.io/badge/MLflow-2.0%2B-orange)](https://mlflow.org/)
